@@ -4,7 +4,7 @@
 
 Manual testing is a software testing process where test cases are executed manually by a tester without using any automated tools. The goal is to identify bugs, defects, and issues in the software application.
 
-**Key aspects discussed in the video:**
+
 
 * **Importance of Manual Testing:**  Manual testing is crucial for finding critical bugs that automated tests might miss. It allows testers to explore the software from a user's perspective, ensuring a positive user experience.
 * **Test Case Design:**  Effective test cases are essential for comprehensive testing.  They should cover various scenarios and edge cases to ensure thorough validation of the software.
