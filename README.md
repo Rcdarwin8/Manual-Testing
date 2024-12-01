@@ -1,9 +1,22 @@
-# Manual Testing
+# Testing
 
-**What is Manual Testing?**
+**Manual Testing**
 
 Manual testing is a software testing process where test cases are executed manually by a tester without using any automated tools. The goal is to identify bugs, defects, and issues in the software application.
 
+**Steps to Follow:**
+
+* Project Introduction
+* Review & Analyze the Requirement/Functionality - FRS
+* Prepare Test Plan
+* Create Test Scenario
+* Create Test Cases, Review, Requirement Tracebility Matrix (RTM)
+* Test Environment Setup
+* Build Deployment
+* Test Execution
+* Bug Reporting & Tracking
+* Smoke testing (smoke testing), Sanity Testing, Re-Testing, Regression Testing
+* Test Phase Sign Off
 
 
 * **Importance of Manual Testing:**  Manual testing is crucial for finding critical bugs that automated tests might miss. It allows testers to explore the software from a user's perspective, ensuring a positive user experience.
