@@ -18,7 +18,7 @@ Manual testing is a software testing process where test cases are executed manua
 * Smoke testing (smoke testing), Sanity Testing, Re-Testing, Regression Testing
 * Test Phase Sign Off
 
-# Aspects of Manual Testing
+
  **Importance of Manual Testing:**  Manual testing is crucial for finding critical bugs that automated tests might miss. It allows testers to explore the software from a user's perspective, ensuring a positive user experience.
 
  **Test Case Design:**  Effective test cases are essential for comprehensive testing.  They should cover various scenarios and edge cases to ensure thorough validation of the software.
